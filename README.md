@@ -2,6 +2,11 @@
 
 Reference / template for a Kafka producer application.
 
+See also:
+
+- [kafka-consumer-blueprint](https://github.com/squidmin/kafka-consumer-blueprint)
+- [kafka-api-blueprint](https://github.com/squidmin/kafka-api-blueprint)
+
 ## Build a JAR
 
 ```bash
